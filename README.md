@@ -2,7 +2,7 @@ Sysmon info
 
 Data samlet på UiO ila flere år. Hentet fra sysmon på 15000+ maskiner.
 
-Tyøpisk:
+Typisk:
 
 ```json
 {
