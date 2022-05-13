@@ -1,6 +1,7 @@
 Sysmon info
 
 Data samlet på UiO ila flere år. Hentet fra sysmon på 15000+ maskiner.
+Ca. 180000+ unike.
 
 Typisk:
 
