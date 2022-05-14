@@ -21,3 +21,4 @@ Typisk:
   ```
   
   Dette er en snapshot, vi har live data. Ta kontakt om det er av interesse.
+  Data kan fritt brukes, deles eller bearbeides.
