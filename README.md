@@ -1,9 +1,11 @@
-Sysmon info
+Sysmon info corpus
 
-Data samlet på UiO ila flere år. Hentet fra sysmon på 15000+ maskiner.
-Ca. 180000+ unike.
+Data collected from 15000+ computers at the University of Oslo.
+250000+ entrys.
 
-Typisk:
+filename: sha256 of the image
+
+File contents example:
 
 ```json
 {
@@ -19,6 +21,5 @@ Typisk:
   }
   
   ```
-  
-  Dette er en snapshot, vi har live data. Ta kontakt om det er av interesse.
-  Data kan fritt brukes, deles eller bearbeides.
+
+The data is free to use.  
