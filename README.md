@@ -23,3 +23,6 @@ File contents example:
   ```
 
 The data is free to use.  
+
+
+update_2025-04-10 folder contains a sqllite-database with 600 000 items. Updated 2025-04-10
