@@ -1,7 +1,7 @@
 Sysmon info corpus
 
 Data collected from 15000+ computers at the University of Oslo.
-250000+ entrys.
+~~250 000~~ 600 000 entrys.
 
 filename: sha256 of the image
 
