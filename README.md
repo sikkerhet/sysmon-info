@@ -26,3 +26,17 @@ The data is free to use.
 
 
 update_2025-04-10 folder contains a sqllite-database with 600 000 items. Updated 2025-04-10
+
+```
+CREATE TABLE IF NOT EXISTS binaries (
+    sha256 TEXT PRIMARY KEY,
+    image TEXT,
+    original_file_name TEXT,
+    file_version TEXT,
+    company TEXT,
+    product TEXT,
+    md5 TEXT,
+    imphash TEXT,
+    parent_image TEXT
+);
+```
